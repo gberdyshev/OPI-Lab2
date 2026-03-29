@@ -16,7 +16,7 @@ public class Lab4 {
   a.s40();
   a.s30(a);
   a.s30(b);
-  c.s30(c);
+  //c.s30(c);
   }
 }
 previous : 11

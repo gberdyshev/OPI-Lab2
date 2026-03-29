@@ -19,4 +19,5 @@ public class Lab4 {
   c.s30(c);
   }
 }
-previous : 4
+previous : 8
+previous : 9

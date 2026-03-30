@@ -12,7 +12,7 @@ public class Lab4 {
   b.s32();
   c.s17();
   c.s9();
-  a.s29();
+  //a.s29();
   a.s40();
   a.s30(a);
   a.s30(b);
